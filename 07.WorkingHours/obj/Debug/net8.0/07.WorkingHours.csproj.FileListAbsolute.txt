@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.exe
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.dll
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\bin\Debug\net8.0\07.WorkingHours.pdb
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.dll
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\refint\07.WorkingHours.dll
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.pdb
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\07.WorkingHours.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\07.WorkingHours\obj\Debug\net8.0\ref\07.WorkingHours.dll
