@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.exe
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.dll
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.pdb
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.dll
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\refint\09.SumSeconds.dll
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.pdb
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Complex-Conditional-Statements-Lab\ExerciseConditionalStatements\09.SumSeconds\obj\Debug\net8.0\ref\09.SumSeconds.dll
